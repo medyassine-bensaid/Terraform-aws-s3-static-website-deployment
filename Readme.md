@@ -4,6 +4,7 @@
 I developed an infrastructure to host a static website using Terraform and AWS S3, showcasing automated provisioning and deployment.
 
 ## Overview
+![deploy-static-website-s3-bucket](https://github.com/user-attachments/assets/83cb65eb-876e-4fb7-bc76-cce5572a9ba7)
 
 ## Key Components
 
